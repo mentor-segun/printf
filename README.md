@@ -1,1 +1,1 @@
-# printf
+This is a README file for the printf project directory.
